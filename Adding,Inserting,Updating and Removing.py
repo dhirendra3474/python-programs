@@ -16,4 +16,19 @@ print(df)
 df.insert(2,"City",["Ayodhya","Noida","Gurgram","Delhi","Punjab","New Delhi","Haryana","Lucknow","Mumbai","Panipat"])
 print(df)
 
+df.loc[9,"City"]="Gurugram"
+print(df)
+
+df["Age"]=df["Age"]+2
+print(df)
+
+df=df.drop("Grade",axis=1)
+print(df)
+
+df=df.drop(["Bonuses","Updated_salary"],axis=1)
+print(df)
+
+
+
+
 
