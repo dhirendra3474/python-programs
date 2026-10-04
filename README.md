@@ -1,7 +1,7 @@
 # Python & Pandas Learning
 
 This repository contains my Python and Pandas practice programs
-while learning Data Analytics.
+while learning Data Analytics---
 
 ## Topics Covered
 
@@ -18,4 +18,4 @@ while learning Data Analytics.
 - Sorting and Aggregation
 - Grouping
 
-More topics will be added as I continue learning.
+More topics will be added as I continue learning--
